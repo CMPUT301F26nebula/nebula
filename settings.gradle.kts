@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "nebula-lab4"
+rootProject.name = "nebula"
 include(":app")
  

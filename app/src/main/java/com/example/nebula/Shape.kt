@@ -1,3 +1,3 @@
-package com.example.nebula_lab4
+package com.example.nebula
 
 abstract class Shape (var x: Int, var y: Int) {}

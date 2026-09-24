@@ -1,4 +1,4 @@
-package com.example.nebula_lab4
+package com.example.nebula
 
 import org.junit.Test
 
