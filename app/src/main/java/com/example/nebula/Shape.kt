@@ -1,5 +1,5 @@
 package com.example.nebula
 
 abstract class Shape (var x: Int, var y: Int) {
-  var colour: String = "GEEN"
+  var colour: String = "PINK"
 }
