@@ -1,3 +1,5 @@
 package com.example.nebula
 
-abstract class Shape (var x: Int, var y: Int, val colour: String = "pink") {}
+abstract class Shape (var x: Int, var y: Int) {
+  var colour: String = "GEEN"
+}
