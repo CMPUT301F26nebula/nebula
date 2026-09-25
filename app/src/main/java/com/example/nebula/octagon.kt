@@ -1,4 +1,5 @@
 package com.example.nebula
 
-class octagon {
+class octagon(x: Int, y: Int): Shape(x, y) {
+
 }
