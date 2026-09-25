@@ -1,5 +1,5 @@
 package com.example.nebula
 
-class Hexagon(x: Int, y: Int) : Shape(x, y) {
+class Heptagon(x: Int, y: Int) : Shape(x, y) {
     val color: String = "blue"
 }
